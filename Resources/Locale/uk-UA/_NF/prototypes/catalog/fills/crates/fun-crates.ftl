@@ -1,2 +1,2 @@
-ent-CrateFloorsFun = Fun floors tiles crate
-    .desc = A crate full of 30 random tiles, used for decoration.
+ent-CrateFloorsFun = Ящик з веселими підлогами
+    .desc = Ящик із 30 випадковими плитками, які використовуються для декорування.
