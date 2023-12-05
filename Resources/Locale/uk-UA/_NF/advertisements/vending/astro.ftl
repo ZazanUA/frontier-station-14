@@ -1,2 +1,2 @@
-advertisement-astrovend-1 = Spessman's Choice!
-advertisement-astrovend-2 = Don't leave home without a suit!
+advertisement-astrovend-1 = Вибір шкіряного космо-чоловіка!
+advertisement-astrovend-2 = Не виходьте з дому без костюма!
